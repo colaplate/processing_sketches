@@ -3,8 +3,7 @@ Repository with my processing sketches, with some generative art / creative codi
 
 ## Procedural Rotations
 
-I found a beautiful line motion from @incre_ment on Twitter, with a kindly shared source code.
-
+I found a beautiful line motion from @incre_ment on Twitter, with a kindly shared source code. So I used a similar motion to make something else.
 
 ![Procedural Rotations GIF](https://github.com/tiagoft/processing_sketches/blob/main/procedural_rotations.gif?raw=true)
 
