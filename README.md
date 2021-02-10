@@ -6,5 +6,5 @@ Repository with my processing sketches, with some generative art / creative codi
 I found a beautiful line motion from @incre_ment on Twitter, with a kindly shared source code.
 
 
-(https://github.com/tiagoft/processing_sketches/blob/main/procedural_rotations.gif?raw=true)
+![Procedural Rotations GIF](https://github.com/tiagoft/processing_sketches/blob/main/procedural_rotations.gif?raw=true)
 
