@@ -3,4 +3,5 @@
 *.tiff
 *.mov
 *.bak
+*.tmp
 Frames/*
