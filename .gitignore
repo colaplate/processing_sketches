@@ -4,4 +4,6 @@
 *.mov
 *.bak
 *.tmp
-Frames/*
+*/Frames/*
+libraries/*
+modes/*
